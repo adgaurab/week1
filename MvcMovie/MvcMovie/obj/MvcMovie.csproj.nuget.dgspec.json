@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
+    "D:\\week1\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "D:\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
+    "D:\\week1\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "D:\\week1\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "D:\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "D:\\week1\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\adhik\\.nuget\\packages\\",
-        "outputPath": "D:\\MvcMovie\\MvcMovie\\obj\\",
+        "outputPath": "D:\\week1\\MvcMovie\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
